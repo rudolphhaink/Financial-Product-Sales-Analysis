@@ -1,89 +1,72 @@
-# Banking Revenue Insights: A Data Analyst Portfolio Project
+# 🏦 Banking Sales Analysis: Marketing Performance, Revenue & Churn (2019–2021)
 
-This project simulates a real-world sales analysis in the **banking sector**, focusing on product performance, customer acquisition, churn, and revenue generation. Using synthetic data spanning **3 years (2021–2023)**, the project combines SQL-style exploration, **linear regression in Python**, and **interactive Tableau dashboards** to uncover actionable insights.
+This project explores a fictional banking sales dataset spanning three years (2019–2021), with the goal of uncovering relationships between marketing spend, revenue generation, and customer churn across different regions and product types.
+
+The analysis is performed in **Python (Jupyter Notebook)** and will be complemented with a **Tableau dashboard** for interactive exploration.
 
 ---
 
 ## 📊 Project Objectives
 
-- Analyze sales performance of banking products across different regions
-- Explore customer acquisition trends, churn rates, and marketing ROI
-- Build a **linear regression model** to predict monthly revenue
-- Develop an **interactive Tableau dashboard** for data storytelling
+- Analyze customer acquisition and churn trends over time.
+- Investigate the impact of marketing spend on revenue.
+- Explore how relationships vary across:
+  - Regions
+  - Product names and categories
+- Visualize insights and patterns to support strategic decision-making.
 
 ---
 
-## 🗃️ Dataset Overview
+## 🧰 Tools & Libraries
 
-The dataset was synthetically generated and includes:
-
-| Column               | Description |
-|----------------------|-------------|
-| `date`               | Month and year (YYYY-MM) |
-| `region`             | North, South, East, West |
-| `product_type`       | Credit Card, Mortgage, etc. |
-| `product_name`       | e.g., "Platinum Card", "Home Loan Pro" |
-| `customers_acquired` | New customers acquired that month |
-| `avg_product_value`  | Avg revenue per customer |
-| `marketing_spend`    | Monthly marketing budget |
-| `churn_rate`         | % of customers lost |
-| `revenue`            | Derived: customers × value × (1 – churn) |
-
-> 📁 [Download the dataset](./banking_sales_data.csv)
+- **Python**: `pandas`, `matplotlib`, `seaborn`, `numpy`
+- **Jupyter Notebook**: for interactive exploratory data analysis (EDA)
+- **Tableau** (coming soon): for dynamic dashboards and stakeholder-ready insights
 
 ---
 
-## 🧪 Regression Analysis (Python)
+## 🗂️ Project Structure
 
-Using `scikit-learn`, I built a **linear regression model** to predict `revenue` using:
-
-- `marketing_spend`
-- `churn_rate`
-- `product_type` (one-hot encoded)
-- `region`
-- Seasonality factors (month/quarter)
-
-### Key Outputs
-- R² score
-- Coefficient interpretation
-- Residual analysis
-
-📓 [View Jupyter Notebook →](./banking_regression_analysis.ipynb)
+| File / Folder            | Description                                           |
+|--------------------------|-------------------------------------------------------|
+| `banking_sales_data.csv` | Synthetic dataset used for the analysis              |
+| `banking_sales_analysis.ipynb` | Main notebook containing all EDA and visualizations |
+| `dashboard/` *(coming soon)* | Tableau workbook and published dashboard screenshots |
 
 ---
 
-## 📈 Tableau Dashboard
+## 📈 Key Analyses
 
-The dashboard offers an interactive view into:
-
-- 📍 Revenue by region and product
-- 📉 Churn and customer acquisition trends
-- 📦 Product performance over time
-- 📊 Marketing spend vs. revenue
-- 🔮 Forecasted revenue (from regression)
-
-📊 [View Tableau Dashboard](#)
-
----
-
-## 🛠️ Tools Used
-
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn)
-- Jupyter Notebook
-- Tableau
-- Git & GitHub
+1. **Customer Acquisition Over Time**
+2. **Churn Rate Trends**
+3. **Marketing Spend vs Revenue**  
+   - By product and region  
+   - With regression trendlines
+4. **Marketing Spend vs Churn Rate**
+5. **Revenue vs Marketing Spend**  
+   - Grouped by product category and region
+6. **Interpretation of Regional & Product-Specific Heterogeneity**
 
 ---
 
-## 📌 Key Learnings
+## 📌 Insights Summary
 
-- Built a complete end-to-end analysis pipeline from data wrangling to storytelling
-- Applied regression modeling to real-world business metrics
-- Gained practice in presenting business insights visually
+- **Regional & product-level variation** is high—suggesting that performance depends heavily on context.
+- **Marketing-Revenue correlation** is positive in some cases, but weak or absent in others.
+- **Churn impact** appears decoupled from marketing in many segments.
+- A one-size-fits-all prediction model may not be suitable without segmentation.
 
 ---
 
-## 🤝 Let’s Connect
+## 🧪 Disclaimer
 
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)!
+This is a fictional dataset created for learning purposes. Any resemblance to real financial data is purely coincidental.
 
+---
+
+## 👤 Author
+
+**[Your Name]** – Data Analyst & Visualization Enthusiast  
+Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rudolph-haink-a5454564/))
+
+---
