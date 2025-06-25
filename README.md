@@ -85,5 +85,5 @@ The dashboard offers an interactive view into:
 
 ## 🤝 Let’s Connect
 
-Feel free to [connect with me on LinkedIn]([#](https://www.linkedin.com/in/rudolph-haink-a5454564/))!
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)!
 
