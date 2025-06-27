@@ -31,7 +31,6 @@ The analysis is performed in **Python (Jupyter Notebook)** and will be complemen
 |--------------------------|-------------------------------------------------------|
 | `banking_sales_data.csv` | Synthetic dataset used for the analysis              |
 | `banking_sales_analysis.ipynb` | Main notebook containing all EDA and visualizations |
-| `dashboard/` *(coming soon)* | Tableau workbook and published dashboard screenshots |
 
 ---
 
