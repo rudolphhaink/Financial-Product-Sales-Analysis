@@ -1,8 +1,8 @@
-# 🏦 Banking Sales Analysis: Marketing Performance, Revenue & Churn (2019–2021)
+# 🏦 Banking Sales Analysis: Marketing Performance, Revenue & Churn (2021-2023)
 
 This project explores a fictional banking sales dataset spanning three years (2019–2021), with the goal of uncovering relationships between marketing spend, revenue generation, and customer churn across different regions and product types.
 
-The analysis is performed in **Python (Jupyter Notebook)** and will be complemented with a **Tableau dashboard** for interactive exploration.
+The analysis is performed in **Python (Jupyter Notebook)** and is complemented by a **Tableau dashboard** for interactive exploration.
 
 ---
 
@@ -27,10 +27,11 @@ The analysis is performed in **Python (Jupyter Notebook)** and will be complemen
 
 ## 🗂️ Project Structure
 
-| File / Folder            | Description                                           |
-|--------------------------|-------------------------------------------------------|
-| `banking_sales_data.csv` | Synthetic dataset used for the analysis              |
-| `banking_sales_analysis.ipynb` | Main notebook containing all EDA and visualizations |
+| File / Folder                             | Description                                           |
+|------------------------------------------|-------------------------------------------------------|
+| [`banking_sales_data.csv`](https://your-link-here.com/banking_sales_data.csv) | Synthetic dataset used for the analysis              |
+| [`banking_sales_analysis.ipynb`](https://your-link-here.com/banking_sales_analysis.ipynb) | Main notebook containing all EDA and visualizations |
+| [📊 Tableau Dashboard]([https://your-link-here.com/tableau-dashboard](https://public.tableau.com/app/profile/rudolph.haink/viz/BankingSalesAnalysisMarketingPerformanceRevenueChurn/OverviewDashboard))           | Interactive dashboard published on Tableau Public    |
 
 ---
 
@@ -66,6 +67,6 @@ This is a fictional dataset created for learning purposes. Any resemblance to re
 ## 👤 Author
 
 **Rudolph Haink** – Data Analyst & Visualization Enthusiast  
-Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rudolph-haink-a5454564/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
 
 ---
