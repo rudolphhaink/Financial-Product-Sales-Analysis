@@ -21,7 +21,7 @@ The analysis is performed in **Python (Jupyter Notebook)** and will be complemen
 
 - **Python**: `pandas`, `matplotlib`, `seaborn`, `numpy`
 - **Jupyter Notebook**: for interactive exploratory data analysis (EDA)
-- **Tableau** (coming soon): for dynamic dashboards and stakeholder-ready insights
+- **Tableau**: for dynamic dashboards and stakeholder-ready insights
 
 ---
 
