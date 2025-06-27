@@ -29,8 +29,8 @@ The analysis is performed in **Python (Jupyter Notebook)** and is complemented b
 
 | File / Folder                             | Description                                           |
 |------------------------------------------|-------------------------------------------------------|
-| [`banking_sales_data.csv`](https://your-link-here.com/banking_sales_data.csv) | Synthetic dataset used for the analysis              |
-| [`banking_sales_analysis.ipynb`](https://your-link-here.com/banking_sales_analysis.ipynb) | Main notebook containing all EDA and visualizations |
+| [`banking_sales_data.csv`](https://github.com/rudolphhaink/Financial-Product-Sales-Analysis/tree/main#:~:text=2%20days%20ago-,banking_sales_data.csv,-Add%20files%20via) | Synthetic dataset used for the analysis              |
+| [`banking_regression_analysis.ipynb`](https://github.com/rudolphhaink/Financial-Product-Sales-Analysis/tree/main#:~:text=banking_regression_analysis.ipynb) | Main notebook containing all EDA and visualizations |
 | [📊 Tableau Dashboard](https://public.tableau.com/app/profile/rudolph.haink/viz/BankingSalesAnalysisMarketingPerformanceRevenueChurn/OverviewDashboard)           | Interactive dashboard published on Tableau Public    |
 
 ---
