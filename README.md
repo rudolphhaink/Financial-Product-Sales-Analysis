@@ -31,7 +31,7 @@ The analysis is performed in **Python (Jupyter Notebook)** and is complemented b
 |------------------------------------------|-------------------------------------------------------|
 | [`banking_sales_data.csv`](https://your-link-here.com/banking_sales_data.csv) | Synthetic dataset used for the analysis              |
 | [`banking_sales_analysis.ipynb`](https://your-link-here.com/banking_sales_analysis.ipynb) | Main notebook containing all EDA and visualizations |
-| [📊 Tableau Dashboard]([https://your-link-here.com/tableau-dashboard](https://public.tableau.com/app/profile/rudolph.haink/viz/BankingSalesAnalysisMarketingPerformanceRevenueChurn/OverviewDashboard))           | Interactive dashboard published on Tableau Public    |
+| [📊 Tableau Dashboard]((https://public.tableau.com/app/profile/rudolph.haink/viz/BankingSalesAnalysisMarketingPerformanceRevenueChurn/OverviewDashboard))           | Interactive dashboard published on Tableau Public    |
 
 ---
 
