@@ -66,7 +66,7 @@ This is a fictional dataset created for learning purposes. Any resemblance to re
 
 ## 👤 Author
 
-**Rudolph Haink** – Data Analyst & Visualization Enthusiast  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
 
 ---
